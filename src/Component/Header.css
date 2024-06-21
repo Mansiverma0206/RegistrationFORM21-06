@@ -2,7 +2,6 @@
 
 header {
    background-color:darkblue;
-   color: aqua;
    padding: 1rem;
  }
  
@@ -11,7 +10,10 @@ header {
    justify-content: space-between;
    align-items: center;
  }
- 
+ul a{
+  color: white;
+  text-decoration: none;
+}
  nav ul {
    list-style: none;
    margin: 0;
